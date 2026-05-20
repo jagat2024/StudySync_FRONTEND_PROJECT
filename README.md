@@ -20,11 +20,8 @@ Built using pure **HTML, CSS, and JavaScript** without any frameworks.
 # 🌐 Live Website
 
 🔗 **Live Demo:**  
-[Visit StudySync]([https://your-live-link-here.com](https://jagat2024.github.io/StudySync_FRONTEND_PROJECT/))
+link: (https://jagat2024.github.io/StudySync_FRONTEND_PROJECT/))
 
-> Replace the link above with your deployed website URL.
-
----
 
 ## ✨ Features
 
